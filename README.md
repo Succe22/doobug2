@@ -46,7 +46,7 @@ $ git checkout 기존 자신의 브랜치 이름
 3. 코드 변경 진행
 ```
 $ git add .
-$ git commit -m "커밋 메시지"
+$ git commit -s -m "커밋 메시지"
 ```
 
 4. Pull the latest code
