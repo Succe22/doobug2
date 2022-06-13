@@ -61,8 +61,13 @@ $ git push -u origin 현재 자신이 작업한 브랜치 이름
 
 
 #### 4. fork한 github 사이트에 들어가서 PR 올리기
-<img width="746" alt="스크린샷 2022-05-15 오후 5 18 58" src="https://user-images.githubusercontent.com/54658745/168463834-03a9dd15-ea86-4f99-b6f5-931bb260d62d.png">
-![K-028](https://user-images.githubusercontent.com/54658745/173409504-d92db838-6873-4caa-affa-655f40d89e7a.png)
+<img width="746" alt="스크린샷 2022-05-15 오후 5 18 58" src="https://user-images.githubusercontent.com/54658745/168463834-03a9dd15-ea86-4f99-b6f5-931bb260d62d.png">  
+
+![K-028](https://user-images.githubusercontent.com/54658745/173409655-dc6c9b5a-c088-4430-b243-ebd9bc2cd4d1.png)
+
+![K-030](https://user-images.githubusercontent.com/54658745/173409723-3b0af1a2-a2ed-45a8-8bd4-ccad78a19a15.png)
+
+
 
   
   
