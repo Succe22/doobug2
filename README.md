@@ -72,7 +72,7 @@ $ git push -u origin 현재 자신이 작업한 브랜치 이름
   
   
   
-### 5. Lable
+### 5. Label
 - feat: 새로운 기능
 - fix : 버그 수정
 - docs : 문서만 변경
